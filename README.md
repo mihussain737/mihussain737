@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Md Imam Hussain and I'm a Full Stack Java Developer, from India.</p>
+<p align="left">My name is Md Imam Hussain and I'm a Full Stack Java React Developer, from India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Microservices and Angular JS</p>
+<p align="left">📚 I'm currently learning Springboot Microservices and React JS</p>
 
 ###
 
@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
